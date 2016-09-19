@@ -1,6 +1,6 @@
 {
   "name": "wn-s3-uploader",
-  "version": null,
+  "version": "1.0.0",
   "description": "Resize, rename, and upload images to AWS S3 forked from Turistforeningen/node-s3-uploader",
   "main": "index.js",
   "files": [
