@@ -70,6 +70,7 @@ var Upload = require('s3-uploader');
     * **string** `suffix` - image file name suffix (**default** `""`)
     * **number** `quality` - image resize quality
     * **string** `format` - force output image file format (**default** `format of original image`)
+    * **boolean** `fileExtension` - a file extension if false it will omit file extension, else use the same as format
     * **number** `maxWidth` - max width for resized image
     * **number** `maxHeight` - max height for resized image
     * **string** `aspect` - force aspect ratio for resized image (**example:** `4:3`

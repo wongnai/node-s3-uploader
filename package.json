@@ -1,7 +1,7 @@
 {
-  "name": "s3-uploader",
+  "name": "wn-s3-uploader",
   "version": null,
-  "description": "Resize, rename, and upload images to AWS S3",
+  "description": "Resize, rename, and upload images to AWS S3 forked from Turistforeningen/node-s3-uploader",
   "main": "index.js",
   "files": [
     "index.js"
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Turistforeningen/node-s3-uploader.git"
+    "url": "https://github.com/wongnai/node-s3-uploader.git"
   },
   "keywords": [
     "aws",
@@ -31,19 +31,12 @@
     "upload",
     "versions"
   ],
-  "author": "Den Norske Turistforening (DNT) <opensource@turistforeningen.no>",
-  "contributors": [
-    "Håvard Ranum <havard.ranum@bouvet.no>",
-    "Hans Kristian Flaatten <hans@starefossen.com>",
-    "Anthony Ringoet <anthonyringoet@gmail.com>",
-    "Luiz Freneda <lfreneda@gmail.com>",
-    "Oleksii Sribnyi <me@codemanki.com>"
-  ],
+  "author": "Tanapol Nearunchorn <tanapoln@wongnai.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Turistforeningen/node-s3-uploader/issues"
+    "url": "https://github.com/wongnai/node-s3-uploader/issues"
   },
-  "homepage": "https://github.com/Turistforeningen/node-s3-uploader#readme",
+  "homepage": "https://github.com/wongnai/node-s3-uploader#readme",
   "dependencies": {
     "async": "^2.0.0",
     "aws-sdk": "^2.4.1",
