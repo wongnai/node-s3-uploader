@@ -3,7 +3,7 @@ AWS S3 Image Uploader
 
 **Documentation for `s3-uploader@1.1` can be found [here](https://github.com/Turistforeningen/node-s3-uploader/blob/stable/1.x/README.md).**
 
-[![Build status](https://app.wercker.com/status/9c42c66dcef6429b52989b2a61c85c7b/s "wercker status")](https://app.wercker.com/project/bykey/9c42c66dcef6429b52989b2a61c85c7b)
+[![Build status](https://travis-ci.org/wongnai/node-s3-uploader.svg?branch=master "travis")](https://travis-ci.org/wongnai/node-s3-uploader.svg?branch=master)
 [![Codacy grade](https://img.shields.io/codacy/grade/17ede08ebf51447296922d6f2b1ee83c.svg "Codacy grade")](https://www.codacy.com/app/DNT/node-s3-uploader)
 [![Codacy coverage](https://img.shields.io/codacy/coverage/17ede08ebf51447296922d6f2b1ee83c.svg "Codacy coverage")](https://www.codacy.com/app/DNT/node-s3-uploader)
 [![NPM downloads](https://img.shields.io/npm/dm/s3-uploader.svg "NPM downloads")](https://www.npmjs.com/package/s3-uploader)
